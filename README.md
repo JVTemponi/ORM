@@ -26,14 +26,14 @@ Alguns dos frameworks ORM mais populares incluem Django ORM (para Python), Hiber
 ## Exemplo utilização ORM
 
 ### Tabela: Pessoa
-ID   | NOME	| IDADE 
- --------- | ------ | -------
-1 | João | 23
-2 | Maurício | 40
-3 | Francisley | 22
-4 | Gustavo | 26
-5 | Pedro | 22
-6 | Vítor | 25
+|ID   | NOME	| IDADE | 
+| ---- | ---- | ---- | 
+|1 | João | 23 |
+|2 | Maurício | 40 |
+|3 | Francisley | 22 |
+|4 | Gustavo | 26 |
+|5 | Pedro | 22 |
+|6 | Vítor | 25 |
 
 
 ### Classe: Pessoa
