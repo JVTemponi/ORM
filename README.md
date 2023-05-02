@@ -1,8 +1,3 @@
-# ORM
-
-Trabalho Projeto de Software - ORM
-
-
 ## ORM (Object-Relational Mapping) 
   
 É a técnica que permite consultar e manipular dados de um banco de dados relacional utilizando um paradigma orientado a objetos. Isso significa que ao invés de escrever um comando SQL diretamente para consultar ou manipular os dados,é possível usar uma camada de abstração que traduz essas operações para a linguagem de programação usada na aplicação.
